@@ -1,1 +1,1 @@
-10.24 first file in git repository
+10.25 first edit file in git repository
